@@ -1,0 +1,36 @@
+[
+
+    {
+        "name": "adnan faruk",
+        "e-mail": "faruk.adnan1998@gmail.com",
+        "username": "omar",
+        "password": "12345678@",
+        "gender": "Male",
+        "peraddress": "bangladesh",
+        "paddress": "bashundhora,dhaka",
+        "city": "dhaka",
+        "phone": "01632840649"
+    },
+    {
+        "name": "adnan faruk",
+        "e-mail": "faruk.adnan1998@gmail.com",
+        "username": "faruk",
+        "password": "@12345678",
+        "gender": "Male",
+        "peraddress": "bangladesh",
+        "paddress": "bashundhora,dhaka",
+        "city": "dhaka",
+        "phone": "01632840649"
+    },
+    {
+        "name": "adnan faruk",
+        "e-mail": "faruk.adnan1998@gmail.com",
+        "username": "adnan",
+        "password": "@12345678",
+        "gender": "Male",
+        "peraddress": "bangladesh",
+        "paddress": "bashundhora,dhaka",
+        "city": "dhaka",
+        "phone": "01632840649"
+    }
+]
